@@ -6,6 +6,7 @@ This project analyses supermarket sales data using Microsoft Excel to uncover ke
 📊 Project Overview
 The dataset represents sales transactions from a supermarket, covering:
 
+
 Branch Performance
 Customer Demographics
 Product Categories
@@ -13,12 +14,14 @@ Payment Methods
 Sales Metrics (Gross income, Total, Tax, etc.)
 The goal is to build an interactive Excel dashboard that highlights KPIs and trends for better decision-making.
 
+
 ⚙️ Tools & Techniques
 Microsoft Excel
 Data Cleaning
 Power Query for Transformation
 Pivot Tables for KPIs
 Charts & Dashboards for Visualisation
+
 
 🧹 Data Preparation Steps
 Checked and removed duplicate records
@@ -28,6 +31,7 @@ Added calculated fields (Tax %, Total, Months, etc.)
 Created Pivot Tables and KPIs
 🧮 Key KPIs (Key Performance Indicators) 
 
+
 KPI	Description
 🛒 Total Sales	Sum of all sales revenue
 👥 Total Transactions	Average Sale per Transaction
@@ -35,12 +39,14 @@ KPI	Description
 🕒 Sales by Months	February = peak month
 🏬 Top Performing Branch: Highest total revenue branch
 
+
 📈 Insights Discovered
 Branch C showed the highest sales and gross income
 Female customers purchased slightly more than males
 E-wallet and Cash were the most common payment methods
 **February = peak month
 **Food & Beverages has the highest sales
+
 
 📁 File Description
 File	Description
@@ -50,6 +56,7 @@ README.md	Project overview and documentation
 
 📜 License
 This project is open-source under the MIT License.
+
 
 👨‍💻 Author
 Deepanshu Gupta
