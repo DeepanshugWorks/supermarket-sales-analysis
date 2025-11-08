@@ -19,30 +19,35 @@ Data Cleaning
 Power Query for Transformation
 Pivot Tables for KPIs
 Charts & Dashboards for Visualisation
+
 🧹 Data Preparation Steps
 Checked and removed duplicate records
 Filled or removed missing values
 Standardised column names and data types
 Added calculated fields (Tax %, Total, Months, etc.)
 Created Pivot Tables and KPIs
-🧮 Key KPIs (Key Performance Indicators)
+🧮 Key KPIs (Key Performance Indicators) 
+
 KPI	Description
 🛒 Total Sales	Sum of all sales revenue
 👥 Total Transactions	Average Sale per Transaction
 ⭐ Average Rating	Customer Rating by Product categories
 🕒 Sales by Months	February = peak month
 🏬 Top Performing Branch: Highest total revenue branch
+
 📈 Insights Discovered
 Branch C showed the highest sales and gross income
 Female customers purchased slightly more than males
 E-wallet and Cash were the most common payment methods
 **February = peak month
 **Food & Beverages has the highest sales
+
 📁 File Description
 File	Description
 Super Market Sales.xlsx	Raw dataset with all sales transactions
 Dashboard.png	(Optional) Screenshot of Excel dashboard
 README.md	Project overview and documentation
+
 📜 License
 This project is open-source under the MIT License.
 
